@@ -20,7 +20,7 @@ For students, follow these steps:
 - Name: Itai Gafni
 - ID#: 201578515
 - github username: itai00 
-- Estimation of hours I worked on it:
+- Estimation of hours I worked on it: 1 hr
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
